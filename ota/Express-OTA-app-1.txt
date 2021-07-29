@@ -149,12 +149,12 @@ server.listen(PORT);
 http://localhost:3000/update_info?versionName=v01
 
 
-LOAD HEX download api
-wifi manager api
+LOAD HEX download api           --- api load_hex
+wifi manager api            
  connection
  exceptions 
  session timeout
-LOAD CAN CONFIG download api
+LOAD CAN CONFIG download api    --- api load_can_config
 TQS SDCARD LOG upload api
 
 
